@@ -29,15 +29,15 @@ Publications
 ======
 * **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, Arxiv)
   <br>**Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
-  <br>[GitHub](https://github.com/fasttoken/SynLogic)
+  <br>GitHub code repository available
 
 * **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, Arxiv)
   <br>**Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
-  <br>[GitHub](https://github.com/fstsiwal/Vision4Chart)
+  <br>[GitHub: Vision4Chart](https://github.com/Vicent0205/Vision4Chart)
 
 * **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024)
   <br>**Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He
-  <br>[GitHub](https://github.com/fstsiwal/Universal_Truthfulness_Hyperplane)
+  <br>[GitHub: Universal_Truthfulness_Hyperplane](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
 
 * **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024)
   <br>Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
